@@ -1,0 +1,23 @@
+# Java/Kotlin
+/.gradle
+/build
+**/build
+/.idea
+/.vscode
+*.iml
+
+# Node
+/node_modules
+/frontend/node_modules
+/frontend/.expo
+
+# Logs
+logs
+*.log
+
+# Env
+.env
+.env.local
+
+# OS
+.DS_Store
