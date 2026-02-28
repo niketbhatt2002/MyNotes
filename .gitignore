@@ -1,5 +1,5 @@
 # Java/Kotlin
-/.gradle
+**/.gradle
 /build
 **/build
 /.idea
